@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Make a Timer App User Interface(ep1)'
